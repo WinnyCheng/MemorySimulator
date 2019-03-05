@@ -1,0 +1,8 @@
+Instruction? (e to exit): 
+Put page table for PID 0 into physical frame 0
+Mapped virtual address 0 (page 0) into physical frame 1
+Instruction? (e to exit): 
+Stored value 24 at virtual address 12 (physical address 28)
+Instruction? (e to exit): 
+The value 24 is virtual address 12 (physical address 28)
+Instruction? (e to exit): 

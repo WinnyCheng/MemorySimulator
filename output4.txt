@@ -1,0 +1,25 @@
+Instruction? (e to exit): 
+Put page table for PID 0 into physical frame 0
+Mapped virtual address 0 (page 0) into physical frame 1
+Instruction? (e to exit): 
+Stored value 255 at virtual address 1 (physical address 17)
+Instruction? (e to exit): 
+The value 255 is virtual address 1 (physical address 17)
+Instruction? (e to exit): 
+Mapped virtual address 16 (page 1) into physical frame 2
+Instruction? (e to exit): 
+Mapped virtual address 32 (page 2) into physical frame 3
+Instruction? (e to exit): 
+Swap frame 0 to disk at swap slot 0
+Put page table for PID 1 into physical frame 0
+Swap frame 1 to disk at swap slot 1
+Swap disk slot 0 to frame 1
+Swap frame 2 to disk at swap slot 1
+Mapped virtual address 0 (page 0) into physical frame 2
+Instruction? (e to exit): 
+Swap frame 3 to disk at swap slot 2
+Swap disk slot 0 to frame 3
+Stored value 10 at virtual address 12 (physical address 60)
+Instruction? (e to exit): 
+The value 10 is virtual address 12 (physical address 60)
+Instruction? (e to exit): 
